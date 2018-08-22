@@ -1,5 +1,5 @@
 <?php
 
-	echo ~"testando";
+	echo ~"testando 2";
 
 ?>
